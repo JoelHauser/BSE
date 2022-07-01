@@ -7,13 +7,13 @@ type Book {
     description: String
     bookId: String
     image: String
-    forSale: String
     link: String
     title: String
 }
 type User {
     _id: ID
     username: String
+    password: String
     email: String
     bookCount: Int
     savedBooks: [Book]
@@ -30,7 +30,6 @@ input SavedBookInput {
     description: String
     bookId: String
     image: String
-    forSale: String
     link: String
     title: String
 }
