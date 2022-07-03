@@ -23,7 +23,7 @@
   ## Usage
 
   This application is used to save books.
-  ![Screenshot](assets\Capture.PNG)
+  ![Screenshot](https://github.com/JoelHauser/BSE/blob/main/assets/Capture.PNG)
 
   ## Contribution
 
